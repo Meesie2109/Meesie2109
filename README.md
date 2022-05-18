@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mees
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m curruntely studying software development
 <!--
 **Meesie2109/Meesie2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
